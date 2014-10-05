@@ -28,7 +28,7 @@ For 5V, with the resistor picks
 R1= 1 kΩ, R2= 10 kΩ, RS= 4.7 Ω 
 gives I(OUT)= 96 mA. 
 
-With a circuit on breadboard with 4 channels [breadboard.jpg] (because there are 4 amplifiers in the NTE987), I(OUT) was 94 mA.
+With a circuit on breadboard with 4 channels (because there are 4 amplifiers in the NTE987, see breadboard.jpg), I(OUT) was 94 mA.
 
 CBYP is a bypasss capacitor between 10nF and 100nF, to keep U1 happy by keeping it supply voltage stable.
 If you don't just want to switch I(OUT) on and off, 
